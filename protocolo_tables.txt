@@ -1,0 +1,467 @@
+Facultad de Ciencias de la Salud
+Licenciatura en Nutrición
+
+PROTOCOLO DE TESIS
+
+Nivel de conocimiento en nutrición y su relación con el estado nutricional en estudiantes universitarios.
+Autor: Décima, Luciano Ariel
+Director de tesis: Lic. Auad, Germán
+Co-Directora de tesis: Dra. Novotny, Ivanna
+Asesor metodológico: Lic. Mejail, Sergio
+Yerba Buena, Tucumán – Argentina
+2026
+1. Introducción
+En el presente trabajo se investigará la relación entre el nivel de conocimiento en nutrición y el estado nutricional en estudiantes universitarios. El conocimiento nutricional constituye uno de los múltiples factores que, potencialmente, influye en la adopción de hábitos alimentarios y estilos de vida saludables y, por ende, repercute en el estado de salud-enfermedad de las personas. De allí la importancia que se le pueda conferir a estos resultados. Además, con el propósito de profundizar en la importancia e impacto que pueda tener este tipo de conocimiento sobre el estado nutricional, se recopilarán datos de dos poblaciones que reciben educación universitaria en distintas áreas del conocimiento: por un lado, estudiantes de la Licenciatura en Nutrición y, por otro, estudiantes de carreras que no pertenecen al ámbito de las Ciencias de la Salud. El contraste de los datos que se obtengan nos permitirá llegar a conclusiones que, independientemente del resultado, ayuden a re-pensar estrategias y políticas en relación a la educación alimentaria.
+2. Antecedentes
+Deossa Restrepo et al., (2021) llevaron a cabo un estudio comparativo sobre el estado nutricional y el estilo de vida de 583 estudiantes universitarias de Nutrición y Dietética de México y Colombia. A través del análisis de variables sociodemográficas, variables antropométricas, variables de consumo y variables de estilo de vida y salud, se lograron observar diferencias significativas entre ambos grupos en cuanto al consumo de alimentos, prevalencia de antecedentes de enfermedades crónicas en los familiares de primer grado de consanguinidad, niveles de actividad física y estado nutricional; resulta interesante la comparación internacional que se da entre estos grupos, pues sabemos que la cultura es uno de los aspectos que más influyen y condicionan nuestros hábitos alimentarios y estilo de vida.
+Las estudiantes mexicanas presentaron mayores antecedentes familiares de enfermedades crónicas, así como una mayor prevalencia de sobrepeso y riesgo cardiovascular (evaluado según perímetro de cintura), a pesar de registrar un consumo más elevado de alimentos considerados protectores (frutas, verduras, leguminosas, grasas saludables). Por el contrario, las estudiantes colombianas mostraron una mayor ingesta de productos ricos en grasas saturadas y azúcares, aunque en promedio presentaron menor riesgo metabólico.
+Se identificaron incoherencias entre el conocimiento teórico en nutrición – esperable por su formación académica – y los comportamientos alimentarios y estilo de vida. Estos hallazgos reflejan que, incluso en estudiantes del área de la salud, los conocimientos en nutrición no garantizan por sí solos un estado nutricional adecuado, ya que existen múltiples factores (culturales, sociales, económicos, genéticos) que influyen en la conducta alimentaria y en el proceso de salud-enfermedad. Sin embargo, también es interesante tomar en cuenta que la mayoría de las estudiantes (más del 94 %) reportaron cambios en su alimentación debido al ingreso a la carrera; relacionados al tipo de alimento, número de comidas al día, aumento del consumo de alimentos o disminución de estos, tanto para México como para Colombia.
+Por contraparte en cuanto a resultados, Avilés-Peralta et al., (2023) realizaron un estudio transversal analítico con 914 estudiantes universitarios nicaragüenses de la facultad de ciencias económicas y empresariales, para examinar la asociación entre el nivel de conocimiento sobre nutrición, las prácticas alimentarias y el estado nutricional. Se aplicaron cuestionarios adaptados al contexto local para evaluar el conocimiento nutricional y la diversidad alimentaria, y se tomaron mediciones antropométricas estandarizadas para conocer el estado nutricional.
+Los resultados revelaron que el 88,4 % de los estudiantes presentaban un bajo nivel de conocimiento nutricional. Se observó una asociación positiva significativa entre el conocimiento en nutrición y las prácticas alimentarias: a mayor conocimiento, mayor diversidad alimentaria. En cuanto al estado nutricional, el 34 % de los estudiantes presentaba exceso de peso (22,4 % sobrepeso y 11,6 % obesidad), y se identificó una correlación negativa entre el nivel de conocimiento y el IMC: a mayor conocimiento nutricional, menores puntajes de IMC (mayor es la posibilidad de los estudiantes de presentar normo-peso). Sin embargo, esta relación se vio influenciada por variables como el sexo, el consumo de alcohol y tabaco, la residencia universitaria y la práctica de actividad física. Nuevamente podemos observar la influencia que presentan otros factores que también inciden en nuestro estado de salud-enfermedad, más allá del conocimiento en nutrición aisladamente. Pero, a pesar de ello y en contraste con otros estudios, no podemos dejar de lado la evidencia de una asociación positiva entre el conocimiento sobre alimentación saludable y nutrición de los estudiantes universitarios con las prácticas alimentarias y la asociación negativa entre el conocimiento nutricional y el sobrepeso y la obesidad.
+Mallqui More, León Toledo y Reyes Narváez (2020), realizaron una investigación descriptiva y correlacional en 261 estudiantes universitarios de una universidad pública en Barranca (Perú), con el objetivo de determinar la relación entre los hábitos alimentarios y el estado nutricional de esta población.
+Mediante un cuestionario validado sobre hábitos alimentarios y evaluaciones antropométricas basadas en el índice de masa corporal (IMC), se halló que el 80.5 % de los estudiantes presentó hábitos alimenticios inadecuados y que el 52.9 % se encontraba con sobrepeso. Además, se evidenciaron casos de obesidad tipo I (12.6 %) y tipo II (2.7 %). En términos globales, solo el 29.1 % de los estudiantes presentó un IMC dentro del rango normal.
+La prueba estadística de chi-cuadrado indicó que existe una relación significativa entre los hábitos alimenticios y el estado nutricional (p=0.00), pero no se encontró asociación entre el estado nutricional y la carrera profesional (p=0.11). Particularmente, se observó una alta prevalencia de obesidad tipo II en estudiantes de Ingeniería Agrónoma (42.9 %), lo que coincide con estudios previos que reportan bajos niveles de conocimiento nutricional en esta población; caso particularmente interesante, debido a la formación biológica de dicha carrera.
+Un punto relevante del estudio es el contraste con otros trabajos previamente realizados. Los resultados obtenidos discrepan con el estudio de Herrera, Celoira y Asaduroglu (2017), en el que el 69.4 % de los estudiantes de Nutrición presentaba un IMC normal, y con la investigación de Morales, Gómez, García, Chaparro y Carreño (2018), quienes hallaron que el 95 % de estudiantes de Enfermería en el Estado de México tenían un IMC normal, evidenciando así una gran variabilidad en el estado nutricional universitario según el contexto geográfico, institucional y sociocultural, incluso en poblaciones vinculadas a carreras de salud.
+Domínguez-Rodríguez et al., (2023) realizaron un estudio exploratorio en cuatro países europeos (España, Italia, Austria y Noruega) con el objetivo de evaluar la percepción de docentes de primaria (n=75) y nutricionistas (n=98) sobre su nivel de conocimientos y preparación pedagógica para enseñar educación nutricional (EN) a niños. La investigación combinó grupos focales y encuestas online para recopilar datos sobre formación, disponibilidad de materiales, percepción de efectividad de programas de EN y barreras para su implementación.
+Los resultados mostraron diferencias marcadas entre ambos grupos profesionales. Solo el 33,8 % de los docentes consideró tener una formación teórica adecuada en nutrición, frente al 45,9 % de los nutricionistas. En cuanto a la capacitación pedagógica, el 36,5 % de los docentes percibió tener “poca” formación para transmitir contenidos de EN, mientras que entre los nutricionistas esta cifra fue del 24,5 %. Respecto a los recursos disponibles, el 71 % de los docentes indicó que la EN no formaba parte del currículo escolar, siendo una actividad extracurricular en la mayoría de los casos. Entre los nutricionistas, solo el 17 % reportó contar con materiales suficientes para enseñar EN, y el 44 % afirmó no disponer de ellos. Ambos grupos coincidieron en identificar una baja efectividad de los programas actuales de EN: menos del 2 % los consideró “muy efectivos”. Las barreras más comunes señaladas fueron la falta de tiempo, escasa capacitación didáctica, bajo interés de los niños y desinterés por parte de los padres. Este estudio evidenció que los conocimientos teóricos en nutrición no siempre van acompañados de competencias pedagógicas ni de recursos adecuados; pero, a pesar de ello, en la población de nutricionistas se halló mayor autopercepción en las capacidades para abordar el desafío.
+En el estudio realizado por Hernández-Ramírez & Hernández-Cuevas (2023), se utilizó una adaptación del General Nutrition Knowledge Questionnaire for Adults (GNKQ) como herramienta principal para evaluar el nivel de conocimientos en nutrición del profesorado de cuatro comunidades escolares en México. Este cuestionario, validado internacionalmente, fue traducido y adaptado al español mediante un proceso de equivalencia semántica y se administró de forma digital a través de Google Forms.
+Los resultados fueron analizados por sección y de forma global, obteniéndose un porcentaje promedio de aciertos del 61.2 % ± 18.9, lo que sugiere un conocimiento nutricional superior al de estudiantes universitarios de carreras no relacionadas con la salud, pero inferior al de estudiantes de nutrición.
+Este instrumento permitió establecer un diagnóstico preliminar sobre el nivel de conocimiento nutricional del profesorado, sirviendo como punto de partida para intervenciones educativas más profundas en el marco de la EAN en las escuelas participantes.
+En el estudio que se pretende llevar a cabo, se adaptará el cuestionario en base a las recomendaciones emitidas por las Guías Alimentarias para la Población Argentina (GAPA), de modo que el mismo se amolde a los conocimientos impartidos en nuestro territorio y a los modos culturales de nuestro país; además de ser un cuestionario validado previamente en otros estudios, como se cita en el antecedente.
+3. Planteamiento del problema
+3.1 Objetivo general
+Analizar la relación entre el nivel de conocimiento en nutrición y el estado nutricional en estudiantes universitarios de la Universidad del Norte Santo Tomás de Aquino.
+3.2 Objetivos específicos
+Evaluar el nivel de conocimiento en nutrición de los estudiantes de la Licenciatura en Nutrición de la Universidad del Norte Santo Tomás de Aquino, sede Yerba Buena, Tucumán.
+Evaluar el nivel de conocimiento en nutrición de los estudiantes de otras carreras de grado que no pertenezcan a la Facultad de Ciencias de la Salud de la Universidad del Norte Santo Tomás de Aquino, sede Yerba Buena, Tucumán.
+Determinar el estado nutricional de los estudiantes.
+Conocer la relación que existe entre el nivel de conocimiento en nutrición y el estado nutricional en ambos grupos.
+Analizar comparativamente el grupo perteneciente a los estudiantes de nutrición con los estudiantes de otras carreras que no pertenecen a la Facultad de Ciencias de la Salud.
+3.3 Interrogantes de investigación
+¿Cuál es el nivel de conocimiento en nutrición que presentan los estudiantes de la Licenciatura en Nutrición?
+¿Cuál es el nivel de conocimiento en nutrición que presentan los estudiantes de otras carreras que no pertenecen a la Facultad de Ciencias de la Salud?
+¿Quiénes han estudiado nutrición poseen mejor estado nutricional con respecto a quienes no?
+¿Influye el nivel de conocimiento en nutrición con respecto al estado nutricional?
+3.4 Justificación
+La nutrición adecuada es un pilar fundamental para la salud, el rendimiento académico y las actividades de la vida en general. En el contexto universitario, los hábitos alimentarios suelen verse afectados por múltiples factores; como el estrés, la falta de tiempo o el desconocimiento. Evaluar la relación entre el conocimiento en nutrición y el estado nutricional puede proporcionar herramientas útiles para diseñar intervenciones educativas que promuevan una mejor calidad de vida en la población.
+Gusto de utilizar una paráfrasis de un principio fundamental contenido en el Corpus Hipocrático cuando hay que mencionar el bienestar aparejado entre la alimentación adecuada y el estado óptimo de salud: “deja que tu alimento sea tu medicina y tu medicina sea tu alimento”. Esta frase resalta la importancia fundamental que tiene la alimentación para la salud y el bienestar general, tanto a nivel preventivo como curativo. Sin embargo, para llegar al punto en el que esta frase pueda ser una realidad, hay un trabajo previo que se debe realizar en materia de Educación Alimentaria y Nutricional (EAN). Por ello considero importante dar el puntapié inicial a través de este trabajo de tesis; al evaluar el nivel de conocimiento en la población que estudia propiamente la nutrición y entender la relación que existe con su estado nutricional, lo cual, a su vez, será comparado con otro grupo poblacional, facilitará unos datos de gran importancia según se contextualicen. Quiero decir, aún hay mucho camino por recorrer en materia de EAN, son muchas las vías en las que podemos avanzar y acercar el conocimiento para dotar de autonomía y salud a la población, pero se debe iniciar por alguna parte y, para tal propósito, me parece acertado cuantificar y comparar los datos ya mencionados. Con ellos podemos echar un vistazo general sobre el impacto de recibir educación en materia de nutrición y, por qué no, con estos comenzar a pensar en incluir la misma dentro del programa escolar en Argentina.
+4. Marco Teórico
+4.1 Concepto de nutrición
+Para contextualizar este abordaje, ante todo, cabría preguntarse ¿Qué es la nutrición? Para esta pregunta, se fueron formulando muchas respuestas a lo largo de la historia, mientras la misma se iba consolidando como ciencia.
+4.2 Conocimiento en nutrición
+El conocimiento en nutrición puede definirse como el conjunto de saberes, información y comprensión que posee un individuo acerca de los alimentos, los nutrientes y su relación con la salud-enfermedad. Este conocimiento incluye la capacidad de identificar alimentos saludables, comprender recomendaciones dietéticas, interpretar información nutricional y reconocer el papel que desempeña la alimentación en la prevención de enfermedades y en el mantenimiento del bienestar general. Desde una perspectiva de salud pública, el conocimiento nutricional constituye un componente importante en la adopción de prácticas alimentarias saludables, ya que permite a las personas tomar decisiones informadas respecto a la selección, preparación y consumo de alimentos.
+4.3 Estado nutricional
+Existen diversos métodos útiles para la evaluación del estado nutricional. Cada uno con sus diversos indicadores y herramientas; que, según sea el caso, resultan más apropiados o no, dependiendo de la evaluación que se pretenda realizar o la población a la que esté dirigida el estudio. Dentro de los métodos descriptivos tenemos la antropometría. Es el método menos costoso y más ampliamente utilizado para evaluar la composición corporal en el humano. Las mediciones antropométricas útiles en clínica y en investigación incluyen el peso corporal, la estatura, los pliegues cutáneos, las circunferencias del tronco y los miembros y el diámetro sagital. En suma, la antropometría es útil en clínica y en los estudios epidemiológicos para evaluar el grado de malnutrición u obesidad en poblaciones. El índice peso-talla más ampliamente utilizado es el Índice de Masa Corporal (IMC) de Quetelet. Este índice tiene la ventaja de ser económico, seguro y fácil de obtener, requiriendo solamente una balanza común y un estadiómetro. Tanto la malnutrición calórico-proteica como la obesidad pueden ser clasificadas de acuerdo con el IMC, habiéndose observado una buena correlación entre el IMC, masa magra y masa grasa en niños y adultos (De Girolami, 2003). Otro tipo de medición del método descriptivo-antropométrico es la circunferencia de cintura (CC). La misma determina la adiposidad abdominal, o sea la distribución de grasa a nivel del tronco, siendo el parámetro más sencillo para lograrlo. Permite evaluar el riesgo, siempre asociado a otros indicadores. En forma generalizada se considera riesgo a un valor superior a 100 cm., pero si se relaciona la circunferencia de cintura con el sexo, la Organización Mundial de la Salud (OMS) establece el grado de riesgo metabólico o de aparición de complicaciones (Torresani y Somoza, 2011).
+4.4 Relación entre conocimiento y conducta observable
+El paradigma de la psicología cognitiva se consolidó en la segunda mitad del siglo XX como una alternativa al conductismo, al proponer que la conducta humana no puede entenderse únicamente como una reacción a los estímulos del entorno, sino como el resultado de procesos mentales internos que median la percepción, la atención, la memoria y la toma de decisiones. Tal como explica Dasgupta (2000), el ser humano procesa activamente la información que recibe, construyendo representaciones mentales que orientan su comportamiento y permiten la adaptación a nuevas o ya conocidas situaciones. Desde esta perspectiva, la conducta alimentaria puede interpretarse como el producto del procesamiento cognitivo de la información nutricional, en el cual el conocimiento adquirido tendría la capacidad de modular la elección de alimentos, la planificación de las comidas y el control de los impulsos.
+4.5 Educación Alimentaria y Nutricional
+Según la Food and Agriculture Organization (FAO), la Educación Nutricional no contempla sólo la difusión de información acerca de los alimentos y sus nutrientes, sino que también proporciona las herramientas para saber qué hacer y cómo actuar para mejorar la nutrición (FAO, 2025).
+5. Materiales Metodológicos
+5.1 Enfoque de la investigación
+Este estudio se enmarca dentro del enfoque cuantitativo, dado que busca analizar de manera objetiva y mediante técnicas estadísticas la relación entre el nivel de conocimiento en nutrición y el estado nutricional en estudiantes universitarios.
+5.2 Alcance del estudio
+El presente estudio es de alcance correlacional; dado que busca analizar la relación entre el nivel de conocimiento en nutrición y el estado nutricional en estudiantes universitarios, sin establecer causalidad debido a la multiplicidad de factores que inciden en el estado nutricional.
+5.3 Diseño
+El diseño del estudio es no experimental, de carácter transversal. Es decir, se estudiarán las variables sobre los grupos de población definidos (estudiantes de la Licenciatura en Nutrición y estudiantes de otras carreras de grado que no pertenezcan a la Facultad de Ciencias de la Salud) tal como están dadas en un determinado momento, sin manipulación de las mismas, buscando entender la relación entre el nivel de conocimiento en nutrición y el estado nutricional.
+5.4 Población y método de muestreo
+Población 1: Estudiantes de la Licenciatura en Nutrición de la UNSTA, sede Yerba Buena, Tucumán. Durante el periodo de abril a mayo de 2026.
+Población 2: Estudiantes de Licenciaturas que no pertenecen a la Facultad de Ciencias de la Salud de la UNSTA, sede Yerba Buena, Tucumán. Durante el periodo de abril a mayo de 2026.
+Muestras:
+Las muestras serán conformadas a través de un método de muestreo no probabilístico por conveniencia con cuotas estratificadas según la carrera y año de cursado. Esto debido a los objetivos del estudio que son “indagar la relación entre conocimiento en nutrición y estado nutricional” y “comparar si el grupo que ha recibido educación de grado superior en nutrición presenta mejor estado nutricional”; con el fin de entender qué tan importante puede ser la educación nutricional y su influencia en el estado de salud-enfermedad de las personas.
+Consideraciones éticas: Todos los individuos que participarán del estudio, firmarán previamente un consentimiento informado y una nota de aceptación para participar de la presente investigación, asegurando así el anonimato y confidencialidad de los datos (Anexo 1 y 2).
+Criterios de exclusión:
+Se tomará en cuenta el año que se encuentre cursando el sujeto, basándonos en el programa de la carrera, debiendo estar en curso de alguna materia pertinente a los últimos dos años.
+Se descartará la participación de aquellos estudiantes que presenten condiciones fisiológicas o patológicas que puedan alterar el estado nutricional o interferir con la evaluación del conocimiento nutricional. Entre ellas se incluyen: embarazo o lactancia, enfermedades endocrinas o metabólicas (como hipotiroidismo e hipertiroidismo), enfermedades gastrointestinales que afecten el estado nutricional, trastornos de la conducta alimentaria y/o patologías neurológicas o psiquiátricas que comprometan la capacidad cognitiva.
+Aquellos participantes cuyas condiciones físicas puedan impedir la realización de las mediciones antropométricas.
+5.5 Hipótesis
+H1: Los estudiantes de la Licenciatura en Nutrición presentan un elevado nivel de conocimiento en nutrición.
+Variable:
+Nivel de conocimiento en nutrición.
+Definición conceptual: Será considerado “conocimiento en nutrición" a los resultados obtenidos por los participantes a través de la evaluación realizada con el instrumento General Nutrition Knowledge Questionnaire (GNKQ), el cual será adaptado según los lineamientos de las Guías Alimentarias para la Población Argentina (GAPA).
+Definición operativa: A cada participante se le proporcionará un ejemplar del GNKQ. El mismo consta de tres secciones que, en caso de responder correctamente a todas las preguntas, se conseguirá una puntación total de 75 como máximo. Según las puntuaciones que se efectúen se los clasificará en nivel de conocimiento “muy bajo”, “bajo”, “moderado”, “elevado” y “muy elevado”; consiguiéndose esta clasificación cualitativa del conocimiento a través de la división en 15 del total de puntos posibles, obteniéndose las cinco categorías ya mencionadas.
+H2: Los estudiantes de otras licenciaturas que no pertenecen a la Facultad de Ciencias de la Salud presentan un nivel moderado de conocimiento en nutrición.
+Variable:
+Nivel de conocimiento en nutrición.
+Definición conceptual: Será considerado “conocimiento en nutrición" a los resultados obtenidos por los participantes a través de la evaluación realizada con el instrumento General Nutrition Knowledge Questionnaire (GNKQ), el cual será adaptado según los lineamientos de las Guías Alimentarias para la Población Argentina (GAPA).
+Definición operativa: A cada participante se le proporcionará un ejemplar del GNKQ. El mismo consta de tres secciones que, en caso de responder correctamente a todas las preguntas, se conseguirá una puntación total de 75 como máximo. Según las puntuaciones que se efectúen se los clasificará en nivel de conocimiento “muy bajo”, “bajo”, “moderado”, “elevado” y “muy elevado”; consiguiéndose esta clasificación cualitativa del conocimiento a través de la división en 15 del total de puntos posibles, obteniéndose las cinco categorías ya mencionadas.
+H3: Los estudiantes que recibieron educación de grado en materia de nutrición presentan mejor estado nutricional con respecto a quienes no.
+Variables:
+Educación de grado recibida.
+Definición conceptual: Se considerará “educación de grado recibida” a la cualidad de encontrarse en el curso de la carrera correspondiente al nivel de grado superior de educación (nivel universitario) que el participante indique.
+Definición operativa: Se preguntará directamente al participante (integrándose la pregunta a un cuestionario), quién deberá responder indicando el cursado correspondiente a su carrera. Por ejemplo: Licenciatura en Nutrición, Licenciatura en Diseño Gráfico, etc.
+A fines prácticos, se categorizará ésta respuesta de manera dicotómica en “recibió Educación Nutricional” y “no recibió Educación Nutricional”.
+Estado nutricional.
+Definición conceptual: Se considera al estado nutricional según los resultados determinados a través de la medición y cálculo del IMC y circunferencia de cintura. La combinación de estos indicadores permitirá obtener un resultado más acertado en cuanto al estado de salud-enfermedad del participante.
+Definición operacional: Para la determinación del IMC, se deberá contar con los datos correspondientes a talla y peso actual. Para la obtención de la talla se utilizará un estadiómetro. La técnica de medición consiste en ubicar al paciente de pie, descalzo, con el cuerpo erguido en máxima extensión y la cabeza erecta mirando al frente en posición de Francfort sobre la plataforma del instrumento. El sujeto deberá ubicarse de espaldas al altímetro, con los talones tocando el plano posterior, con los pies y las rodillas juntas. Se desciende el plano superior del altímetro hasta tocar la cabeza en su punto más elevado y, en inspiración y verificando la postura correcta, se toma la medición. Para la obtención del peso actual, se utilizará una balanza digital, la cual nos indicará directamente el peso del sujeto. Se deberá ubicar al paciente de pie, parado en el centro de la balanza, con prendas livianas y descalzo. Obtenidos ambos datos se determinará el IMC, utilizando la formula correspondiente (IMC = PA / T²). Según el resultado que se obtenga se categorizará al sujeto en “fuera de la normalidad por déficit”, “normal” y “fuera de la normalidad por exceso”.
+Para la determinación de la circunferencia de cintura se utilizará la técnica recomendada por la OMS. La misma consiste en ubicarse frente al paciente, que se encontrará de pie con la zona del abdomen descubierta y los brazos relajados al costado del cuerpo (posición antropométrica), se rodeará con la cinta antropométrica en el punto medio entre el reborde costal y la cresta ilíaca. El resultado se tomará en centímetros y se debe medir en espiración. Según el resultado obtenido se categorizará al sujeto “con riesgo cardiometabólico aumentado” o “con riesgo cardiometabólico bajo”.
+Así, finalmente, se constituirán dos categorías determinantes en base a los resultados obtenidos: “Mejor Estado Nutricional” y “Peor Estado Nutricional”. Para que se considere como “Mejor Estado Nutricional”, el sujeto deberá reunir las siguientes categorías de los distintos indicadores mencionados: IMC “normal” y CC “con riesgo cardiometabolico bajo” o IMC “fuera de la normalidad por exceso” y CC “con riesgo cardiometabolico bajo”; ésta última combinación se puede dar en caso de deportistas, debido a un aumento en la masa magra. El resto de combinaciones los ubicará en la categoría “Peor Estado Nutricional”.
+H4: A mayor nivel de conocimiento en nutrición, mejor estado nutricional.
+Variables:
+Nivel de conocimiento en nutrición.
+Definición conceptual: Será considerado “conocimiento en nutrición" a los resultados obtenidos por los participantes a través de la evaluación realizada con el instrumento General Nutrition Knowledge Questionnaire (GNKQ), el cual será adaptado según los lineamientos de las Guías Alimentarias para la Población Argentina (GAPA).
+Definición operativa: A cada participante se le proporcionará un ejemplar del GNKQ. El mismo consta de tres secciones que, en caso de responder correctamente a todas las preguntas, se conseguirá una puntación total de 75 como máximo. Según las puntuaciones que se efectúen se los clasificará en nivel de conocimiento “muy bajo”, “bajo”, “moderado”, “elevado” y “muy elevado”; consiguiéndose esta clasificación cualitativa del conocimiento a través de la división en 15 del total de puntos posibles, obteniéndose las cinco categorías ya mencionadas.
+Estado nutricional.
+Definición conceptual: Se considera al estado nutricional según los resultados determinados a través de la medición y cálculo del IMC y circunferencia de cintura. La combinación de estos indicadores permitirá obtener un resultado más acertado en cuanto al estado de salud-enfermedad del participante.
+Definición operacional: Para la determinación del IMC, se deberá contar con los datos correspondientes a talla y peso actual. Para la obtención de la talla se utilizará un estadiómetro. La técnica de medición consiste en ubicar al paciente de pie, descalzo, con el cuerpo erguido en máxima extensión y la cabeza erecta mirando al frente en posición de Francfort sobre la plataforma del instrumento. El sujeto deberá ubicarse de espaldas al altímetro, con los talones tocando el plano posterior, con los pies y las rodillas juntas. Se desciende el plano superior del altímetro hasta tocar la cabeza en su punto más elevado y, en inspiración y verificando la postura correcta, se toma la medición. Para la obtención del peso actual, se utilizará una balanza digital, la cual nos indicará directamente el peso del sujeto. Se deberá ubicar al paciente de pie, parado en el centro de la balanza, con prendas livianas y descalzo. Obtenidos ambos datos se determinará el IMC, utilizando la formula correspondiente (IMC = PA / T²). Según el resultado que se obtenga se categorizará al sujeto en “fuera de la normalidad por déficit”, “normal” y “fuera de la normalidad por exceso”.
+Para la determinación de la circunferencia de cintura se utilizará la técnica recomendada por la OMS. La misma consiste en ubicarse frente al paciente, que se encontrará de pie con la zona del abdomen descubierta y los brazos relajados al costado del cuerpo (posición antropométrica), se rodeará con la cinta antropométrica en el punto medio entre el reborde costal y la cresta ilíaca. El resultado se tomará en centímetros y se debe medir en espiración. Según el resultado obtenido se categorizará al sujeto “con riesgo cardiometabólico aumentado” o “con riesgo cardiometabólico bajo”.
+Así, finalmente, se constituirán dos categorías determinantes en base a los resultados obtenidos: “Mejor Estado Nutricional” y “Peor Estado Nutricional”. Para que se considere como “Mejor Estado Nutricional”, el sujeto deberá reunir las siguientes categorías de los distintos indicadores mencionados: IMC “normal” y CC “con riesgo cardiometabolico bajo” o IMC “fuera de la normalidad por exceso” y CC “con riesgo cardiometabolico bajo”; ésta última combinación se puede dar en caso de deportistas, debido a un aumento en la masa magra. El resto de combinaciones los ubicará en la categoría “Peor Estado Nutricional”.
+5.6 Instrumentos
+Cuestionario
+Se utilizará el cuestionario auto-administrado GNKQ. El mismo consta de cuatro secciones que pueden ser utilizadas independientemente. En este estudio se utilizarán tres de las cuatro secciones; a saber: “Sección 1: Sobre los consejos que usted cree que nos dan los expertos.”, “Sección 2: Los grupos de alimentos y los nutrientes que estos contienen.” y “Sección 4: Sobre los problemas de salud o enfermedades relacionadas con la dieta y el control del peso.”.
+En la sección 1, cada ítem vale un punto por respuesta correcta. Las subsecciones de la primer y tercer pregunta se consideran ítems independientes (puntuación máxima: 18).
+En la sección 2, cada ítem vale un punto por respuesta correcta. En las preguntas con listas de alimentos, cada uno se considera un ítem independiente; preguntas 1, 2, 3, 4, 5 y 6 (puntuación máxima: 36).
+En la sección 4, cada pregunta vale un punto por respuesta correcta. Las subsecciones de la pregunta 13 se consideran preguntas independientes (puntuación máxima: 21).
+A fines prácticos, se renombrarán las secciones para mayor comodidad visual del encuestado, considerando la sección 4 como sección 3.
+El máximo puntaje posible es de 75, el cual se dividirá en 15, de manera de obtener las siguientes categorizaciones: Nivel de conocimiento en nutrición muy bajo (de 0 a 15 puntos), nivel de conocimiento en nutrición bajo (de 16 a 30 puntos), nivel de conocimiento en nutrición moderado (de 31 a 45 puntos), nivel de conocimiento en nutrición elevado (de 46 a 60 puntos) y nivel de conocimiento en nutrición muy elevado (de 61 a 75 puntos).
+En este mismo cuestionario se adicionarán otras preguntas que servirán para la posterior organización de la información, división en la comparación de grupos y una mejor comprensión de los resultados obtenidos.
+Estadiómetro
+Para la medición de la talla se utilizará un estadiómetro marca Roma, modelo BPP.
+Balanza digital
+Se utilizará una balanza digital marca Maverick para determinar el peso actual del participante.
+Cinta antropométrica
+Se utilizará una cinta antropométrica (marca AvaNutri, modelo AVA-04) metálica inextensible de 2 metros de largo y 6 mm. de ancho, con 7 cm. de espacio blanco antes del 0 para proporcionar mayor comodidad en la toma de mediciones. 
+6. Plan de análisis de datos
+Todos los datos recolectados se volcarán en una matriz alojada localmente en el programa Microsoft Excel. Las técnicas utilizadas para la comprobación de hipótesis serán: prueba no paramétrica chi-cuadrada (χ²) para una sola variable en el caso de las hipótesis 1 y 2. Y prueba no paramétrica chi-cuadrada (χ²) para dos variables en el caso de las hipótesis 3 y 4.
+7. Cronograma
+8. Referencias bibliográficas
+Avilés-Peralta, Y. A., Hernández Somarriba, L. L., Rojas-Roque, C., Rodríguez, E., & Ríos-Castillo, I. (2023). Nivel de conocimiento sobre nutrición y su asociación con las prácticas alimentarias y la obesidad entre estudiantes universitarios. Revista Chilena de Nutrición, 50(2), 147–158. https://doi.org/10.4067/S0717-75182023000200147
+Dasgupta, S. (2000). Cognitive psychology. Prentice Hall of India.
+De Girolami, D. H. (2003). Fundamentos de la valoración nutricional y composición corporal. El Ateneo.
+Deossa Restrepo, G. C., Segura Buján, M. V., & Restrepo Betancur, L. F. (2021). Evaluación del estado nutricional y estilo de vida en universitarias de Nutrición y Dietética de México y Colombia. Revista Habanera de Ciencias Médicas, 20(4), e2929. http://www.revhabanera.sld.cu/index.php/rhab/article/view/2929
+Domínguez-Rodríguez, A., Cebolla, A., Navarro, J., & Baños, R. (2023). Nutritional education knowledge of teachers and nutritionists in four European countries. Nutrición Hospitalaria, 40(1), 136–143. https://doi.org/10.20960/nh.03930
+Food and Agriculture Organization. (2025). Educación alimentaria y nutricional. Consultado el 17 de junio de 2025. https://www.fao.org/nutrition/educacion-nutricional/es/
+Hernández-Ramírez, J. C., & Hernández-Cuevas, M. (2023). Educación Alimentaria y Nutricional en comunidades escolares mexicanas de educación básica experimentadas en Participación Social en Salud. Revista Educación, 47(2). https://doi.org/10.15517/revedu.v47i2.51987
+López, L. B., & Suárez, M. M. (2021). Fundamentos de nutrición normal. El Ateneo.
+Mallqui More, J. E., León Toledo, L. E., & Reyes Narváez, S. E. (2020). Evaluación nutricional en estudiantes de una universidad pública. Revista Salud Pública y Nutrición, 19(4), 10–15. https://doi.org/10.29105/respyn19.4-2
+Torresani, M. E., & Somoza, M. I. (2011). Lineamientos para el cuidado nutricional. Eudeba.
+ANEXO I – CONSENTIMIENTO INFORMADO
+Universidad del Norte Santo Tomás de Aquino
+Facultad de Ciencias de la Salud - Licenciatura en Nutrición
+Título del estudio: Nivel de conocimiento en nutrición y su relación con el estado nutricional en estudiantes universitarios.
+Investigador responsable: Décima, Luciano Ariel
+Correo electrónico: lucianodecima1@gmail.com
+Lugar de realización: Universidad del Norte Santo Tomás de Aquino – Sede Yerba Buena, Tucumán, Argentina.
+Invitación:
+Usted está siendo invitado/a a participar voluntariamente en un estudio académico cuyo objetivo es analizar la relación entre el nivel de conocimiento en nutrición y el estado nutricional en estudiantes universitarios y, a su vez, realizar una comparación de grupo entre estudiantes de la Licenciatura en Nutrición y estudiantes de otras carreras de grado que no pertenezcan a la Facultad de Ciencias de la Salud. Esta investigación forma parte de un trabajo de tesis para la obtención del título de grado de Licenciado en Nutrición en la Universidad del Norte Santo Tomás de Aquino.
+Procedimiento:
+En caso de aceptar participar, se le solicitará
+Responder un cuestionario auto-administrado sobre conocimientos en nutrición.
+Someterse a una evaluación antropométrica que incluirá mediciones de peso, talla y circunferencia de cintura. Estas evaluaciones se realizarán una única vez, en el consultorio nutricional de la Facultad de Ciencias de la Salud de la UNSTA (espacio físico privado), bajo condiciones seguras e higiénicas, con una duración aproximada de 10 minutos.
+Riesgos y molestias:
+La participación en este estudio no implica riesgos significativos para su salud. Las mediciones antropométricas son procedimientos no invasivos, indoloros y seguros.
+Beneficios:
+Los resultados del estudio contribuirán al conocimiento científico sobre la relación entre la educación nutricional y el estado de salud; lo cual busca orientar futuras estrategias e intervenciones de promoción y políticas de salud en el marco de la educación alimentaria nutricional.
+Confidencialidad:
+Toda la información recolectada será estrictamente confidencial y anónima. Los datos obtenidos serán utilizados únicamente con fines académicos y científicos. Los resultados se presentarán de manera grupal y estadística, garantizando la privacidad de todos los participantes.
+Voluntariedad y retiro:
+Su participación en este estudio es completamente voluntaria. Puede negarse a participar o retirarse del estudio en cualquier momento, sin que ello le ocasione perjuicio alguno.
+Consentimiento:
+He leído y comprendo la información precedente. Se me ha explicado el propósito, los procedimientos, los posibles riesgos y beneficios del estudio. Entiendo que mi participación es voluntaria y que puedo retirarme cuando lo desee sin consecuencia alguna. Sabiendo todo lo anteriormente mencionado, autorizo a los investigadores a utilizar los datos obtenidos en este estudio con fines académicos, garantizando la confidencialidad y el anonimato de mi información personal.
+Firma del participante: _________________________________________
+Nombre y Apellido: ___________________________________________
+DNI: ____________________________
+Fecha: ____ / ____ / ______
+Firma del investigador responsable: ______________________________
+Nombre y Apellido: Luciano Ariel Décima
+ANEXO II – NOTA DE ACEPTACIÓN
+Universidad del Norte Santo Tomás de Aquino
+Facultad de Ciencias de la Salud - Licenciatura en Nutrición
+Título del estudio: Nivel de conocimiento en nutrición y su relación con el estado nutricional en estudiantes universitarios.
+Investigador responsable: Décima, Luciano Ariel
+Correo electrónico: lucianodecima1@gmail.com
+Lugar de realización: Universidad del Norte Santo Tomás de Aquino – Sede Yerba Buena, Tucumán, Argentina.
+Declaro que he leído y comprendido la información proporcionada sobre el estudio titulado “Nivel de conocimiento en nutrición y su relación con el estado nutricional en estudiantes universitarios”. Se me ha explicado claramente el propósito de la investigación, los procedimientos que se llevarán a cabo, así como los posibles riesgos y beneficios asociados a mi participación. Entiendo que mi participación es completamente voluntaria y que puedo retirarme del estudio en cualquier momento sin que esto implique perjuicio alguno. Asimismo, se me ha informado que los datos obtenidos serán utilizados únicamente con fines académicos y científicos, garantizándose la confidencialidad y el anonimato de mi información personal. En conocimiento de todo lo anterior, acepto participar voluntariamente en el presente estudio.
+Firma del participante: _________________________________________
+Nombre y Apellido: ___________________________________________
+DNI: ____________________________
+Fecha: ____ / ____ / ______
+Firma del investigador responsable: ______________________________
+Nombre y Apellido: Luciano Ariel Décima
+ANEXO III – CUESTIONARIO
+Universidad del Norte Santo Tomás de Aquino
+Facultad de Ciencias de la Salud - Licenciatura en Nutrición
+Cuestionario de Conocimientos en Nutrición
+El siguiente cuestionario consiste en una adaptación del General Nutrition Knowledge Questionnaire (GNKQ) bajo los lineamientos de las Guías Alimentarias para la Población Argentina (GAPA). El fin del mismo es conocer su nivel de conocimiento nutricional; por lo tanto, en las opciones que tenga dudas, es preferible que tilde en “no estoy seguro”. Los datos que proporcione serán totalmente anónimos y se usarán sólo con fines académicos. Desde ya, agradecemos su colaboración y tiempo.
+SECCIÓN 1: ¿Qué consejos cree usted que están dando los expertos?
+¿Recomiendan las GAPA que la gente consuma más, la misma cantidad o menos de los siguientes alimentos? (Marque una casilla por alimento).
+¿Cuántas porciones de frutas y verduras por día aconsejan consumir las GAPA? (Marque una).
+¿Cuáles de estos tipos de grasas recomiendan las GAPA que se consuman menos? (Marque una casilla por cada opción)
+¿Qué recomiendan las GAPA con respecto al consumo de lácteos? (Marque una)
+¿Cuántas veces por semana se recomienda consumir pescados grasos (por ejemplo: atún, caballa, etc.) según las GAPA? (Marque una)
+¿Cuál es la cantidad máxima recomendada para el consumo de bebidas alcohólicas por día según las GAPA? (Marque una)
+¿Qué recomiendan las GAPA en cuanto a patrones alimentarios? (Marque una)
+Según las GAPA es válido reemplazar las porciones recomendadas de fruta por el jugo de estas mismas. (Marque una)
+Según la Gráfica de la Alimentación Diaria de las GAPA, ¿Qué proporción o cantidad diaria se recomienda consumir del grupo de legumbres, cereales, papa, pan y pastas? (Marque una)
+SECCIÓN 2: Identificación de grupos de alimentos y sus nutrientes
+¿Cree usted que estos alimentos y bebidas suelen tener alto, bajo o nulo contenido de azúcar agregado? (Marque una casilla por alimento)
+¿Cree usted que estos alimentos son típicamente altos o bajos en sodio? (Marque una casilla por alimento)
+¿Cree usted que estos alimentos son típicamente altos o bajos en fibra? (Marque una casilla por alimento)
+¿Cree usted que estos alimentos son una buena fuente de proteína? (Marque una casilla por alimento)
+¿Cuáles de los siguientes alimentos contienen almidón? (Marque una casilla por alimento)
+¿Cuál es el tipo de grasa predominante presente en cada uno de estos alimentos? (Marque una casilla por alimento)
+¿Cuál de estos alimentos posee grasas trans? (Marque una)
+La cantidad de calcio en un vaso de leche entera comparado con un vaso de leche descremada es (marque una):
+¿Cuál de los siguientes nutrientes tiene más calorías por el mismo peso de alimento? (Marque una)
+En comparación con los alimentos mínimamente procesados, los alimentos ultraprocesados son (marque una):
+SECCIÓN 3: Alimentación, enfermedades y control del peso
+¿Cuál de estas enfermedades está relacionada con una baja ingesta de fibra? (Marque una)
+¿Cuál de estas enfermedades está relacionada con cuánto azúcar consume la gente? (Marque una)
+¿Cuál de estas enfermedades está relacionada con cuánto sodio o sal consume la gente? (Marque una)
+¿Qué recomiendan las GAPA para reducir el riesgo de cáncer? (Marque una)
+¿Qué recomiendan las GAPA para prevenir enfermedades cardiovasculares? (Marque una)
+¿Qué recomiendan las GAPA para prevenir la Diabetes 2? (Marque una)
+¿Cuál de estos alimentos es más probable que eleve el colesterol sanguíneo? (Marque una)
+¿Cuál de estos alimentos tiende a elevar más rápidamente la glucemia después de comer? (Marque una)
+Para mantener un peso saludable la gente debería eliminar completamente las grasas de su dieta. (Marque una)
+Para mantener un peso saludable la gente debería comer una dieta alta en proteínas. (Marque una)
+Comer pan siempre causa aumento de peso. (Marque una)
+La fibra puede disminuir las probabilidades de aumentar de peso. (Marque una)
+¿Cuáles de las siguientes conductas ayudan a mantener un peso saludable? (Marque una por cada afirmación)
+Si alguien tiene un IMC de 20 kg/m² ¿Cuál sería su estado nutricional? (Marque una)
+Si alguien tiene un IMC de 30 kg/m² ¿Cuál sería su estado nutricional? (Marque una)
+¿Cuál de las siguientes formas corporales incrementa el riesgo de enfermedad cardiovascular? (Marque una)
+--- TABLE START ---
+Año | 2026 | 2026 | 2026 | 2026 | 2026 | 2026 | 2026 | 2026
+Meses | Marzo | Marzo | Abril | Abril | Mayo | Mayo | Junio | Junio
+Quincenas | 1 ° | 2° | 1 ° | 2° | 1 ° | 2° | 1 ° | 2°
+Presentación del protocolo | X |  |  |  |  |  |  | 
+Profundización del marco teórico |  | X | X |  |  |  |  | 
+Revisión metodológica |  |  | X |  |  |  |  | 
+Recolección de datos |  |  |  | X | X |  |  | 
+Organización de datos |  |  |  |  | X |  |  | 
+Análisis de datos |  |  |  |  |  | X |  | 
+Conclusión y discusión |  |  |  |  |  | X | X | 
+Presentación final |  |  |  |  |  |  |  | X
+--- TABLE END ---
+--- TABLE START ---
+ | Más | Igual | Menos | No estoy seguro/a
+Frutas |  |  |  | 
+Alimentos y bebidas con azúcar agregada |  |  |  | 
+Verduras |  |  |  | 
+Alimentos grasos |  |  |  | 
+Carnes rojas procesadas |  |  |  | 
+Cereales integrales |  |  |  | 
+Alimentos salados |  |  |  | 
+Agua |  |  |  | 
+--- TABLE END ---
+--- TABLE START ---
+2 | 
+3 | 
+4 | 
+5 o más | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+ | No comer menos | Comer menos | No estoy seguro/a
+Grasas insaturadas |  |  | 
+Grasas saturadas |  |  | 
+Grasas trans |  |  | 
+--- TABLE END ---
+--- TABLE START ---
+Incluir 3 porciones al día de leche, yogurt o queso (preferentemente descremados) | 
+Preferir los lácteos enteros antes que los descremados | 
+Preferir los quesos duros por su mayor aporte de calcio | 
+Utilizarlos únicamente durante la infancia | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+2 o más veces por semana | 
+3 – 4 veces por semana | 
+Todos los días | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+1 medida tanto para hombres como para mujeres | 
+2 medidas tanto para hombres como para mujeres | 
+2 medidas para hombres y 1 medida para mujeres | 
+3 medidas para hombres y 2 medidas para mujeres | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Realizar ayuno intermitente en patrón 16/8 | 
+Realizar 4 comidas con una selección de alimentos moderada y armónica | 
+Realizar la cantidad de comidas y selección de alimentos que desee, siempre que procure cumplir con su cuota calórica | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+De acuerdo | 
+En desacuerdo | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+4 porciones al día | 
+4 porciones a la semana | 
+Una cantidad mínima y opcional | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+ | Alto en azúcar agregado | Bajo en azúcar agregado | Sin azúcar agregado | No estoy seguro/a
+Gaseosas dietéticas |  |  |  | 
+Gaseosas comunes |  |  |  | 
+Ketchup tradicional |  |  |  | 
+Leche entera |  |  |  | 
+Leche chocolatada |  |  |  | 
+--- TABLE END ---
+--- TABLE START ---
+ | Alto en sodio | Bajo en sodio | No estoy seguro/a
+Copos de cereal |  |  | 
+Vegetales congelados |  |  | 
+Pan francés |  |  | 
+Porotos enlatados |  |  | 
+Carne roja |  |  | 
+Sopa en sobre |  |  | 
+--- TABLE END ---
+--- TABLE START ---
+ | Alto contenido de fibra | Bajo contenido de fibra | No estoy seguro/a
+Legumbres |  |  | 
+Manzana |  |  | 
+Arroz blanco |  |  | 
+Carne de vaca |  |  | 
+Papas con cascara |  |  | 
+Pan francés |  |  | 
+--- TABLE END ---
+--- TABLE START ---
+ | Buena fuente de proteína | No es buena fuente de proteína | No estoy seguro/a
+Carnes de origen animal (vaca, pollo, pescado, etc.) |  |  | 
+Quesos |  |  | 
+Frutas |  |  | 
+Legumbres |  |  | 
+Manteca |  |  | 
+Hortalizas |  |  | 
+--- TABLE END ---
+--- TABLE START ---
+ | Contiene almidón | No contiene almidón | No estoy seguro/a
+Quesos |  |  | 
+Pastas |  |  | 
+Papas |  |  | 
+Nueces |  |  | 
+Bananas |  |  | 
+--- TABLE END ---
+--- TABLE START ---
+ | Grasas poli-insaturadas | Grasas mono-insaturadas | Grasas saturadas | No estoy seguro
+Aceite de oliva |  |  |  | 
+Manteca |  |  |  | 
+Aceite de girasol |  |  |  | 
+Palta |  |  |  | 
+--- TABLE END ---
+--- TABLE START ---
+Margarina | 
+Manteca | 
+Aceite de girasol | 
+Huevos | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Aproximadamente el mismo | 
+Mucho mayor | 
+Mucho menor | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Azúcares | 
+Proteínas | 
+Grasas | 
+Fibra | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Más altos en fibra | 
+Más altos en calorías | 
+Más bajos en sodio | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Anemia | 
+Caries dentales | 
+Trastornos intestinales | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Anemia | 
+Caries dentales | 
+Hipertensión Arterial | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Diabetes 2 | 
+Hipertensión Arterial | 
+Hipotiroidismo | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Beber alcohol regularmente | 
+Comer menos carne roja | 
+Evitar aditivos en los alimentos | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Comer menos huevos | 
+Evitar las grasas trans | 
+Tomar suplementos | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Beber más jugo de frutas | 
+Comer más carne roja | 
+Comer menos alimentos ultra-procesados | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Aceites vegetales | 
+Grasa animal | 
+Huevos | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Cereales integrales | 
+Frutas | 
+Pan blanco | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+De acuerdo | 
+En desacuerdo | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+De acuerdo | 
+En desacuerdo | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+De acuerdo | 
+En desacuerdo | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+De acuerdo | 
+En desacuerdo | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+ | Ayuda | No ayuda | No estoy seguro/a
+No comer mientras ve televisión o usa el celular |  |  | 
+Omitir la cena |  |  | 
+Realizar al menos 30 minutos de actividad física diaria |  |  | 
+Limitar el consumo de bebidas azucaradas |  |  | 
+Sustituir el agua por jugos naturales |  |  | 
+Tomar suplementos |  |  | 
+--- TABLE END ---
+--- TABLE START ---
+Desnutrición | 
+Peso normal | 
+Sobrepeso | 
+Obesidad | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+Desnutrición | 
+Peso normal | 
+Sobrepeso | 
+Obesidad | 
+No estoy seguro/a | 
+--- TABLE END ---
+--- TABLE START ---
+ |  | No estoy seguro/a
+ |  | 
+--- TABLE END ---

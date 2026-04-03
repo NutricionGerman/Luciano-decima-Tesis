@@ -1,0 +1,85 @@
+﻿=== DATOS DEL PARTICIPANTE ===,,,
+Nombre Completo,Edad,Grado o Carrera,Cargo que ocupa
+"german","24","nutricion","estudiante"
+,,,
+=== ESTADISTICAS DE LA SESION ===,,,
+Tiempo Total (segundos),Salidas de la pestaña (Tab Switches),,
+168,3,,
+,,,
+=== RESPUESTAS ===,,,
+ID Pregunta,Pregunta,Respuesta Seleccionada,Tiempo Empleado (segundos)
+1.1,"¿Recomiendan las GAPA que se consuman más, la misma cantidad o menos de este alimento?","Más",21
+1.2,"¿Recomiendan las GAPA que se consuman más, la misma cantidad o menos de este alimento?","Igual",4
+1.3,"¿Recomiendan las GAPA que se consuman más, la misma cantidad o menos de este alimento?","Menos",1
+1.4,"¿Recomiendan las GAPA que se consuman más, la misma cantidad o menos de este alimento?","Menos",1
+1.5,"¿Recomiendan las GAPA que se consuman más, la misma cantidad o menos de este alimento?","Menos",1
+1.6,"¿Recomiendan las GAPA que se consuman más, la misma cantidad o menos de este alimento?","Igual",2
+1.7,"¿Recomiendan las GAPA que se consuman más, la misma cantidad o menos de este alimento?","Menos",1
+1.8,"¿Recomiendan las GAPA que se consuman más, la misma cantidad o menos de este alimento?","Más",3
+2,"¿Cuántas porciones de frutas y verduras por día aconsejan consumir las GAPA?","3",3
+3.1,"¿Recomiendan las GAPA que se consuman menos de este tipo de grasas?","Comer menos",1
+3.2,"¿Recomiendan las GAPA que se consuman menos de este tipo de grasas?","Comer menos",1
+3.3,"¿Recomiendan las GAPA que se consuman menos de este tipo de grasas?","Comer menos",1
+4,"¿Qué recomiendan las GAPA con respecto al consumo de lácteos?","Incluir 3 porciones al día de leche, yogurt o queso (preferentemente descremados)",3
+5,"¿Cuántas veces por semana se recomienda consumir pescados grasos (por ejemplo: atún, caballa, etc.) según las GAPA?","3 - 4 veces por semana",1
+6,"¿Cuál es la cantidad máxima recomendada para el consumo de bebidas alcohólicas por día según las GAPA?","2 medidas tanto para hombres como para mujeres",1
+7,"¿Qué recomiendan las GAPA en cuanto a patrones alimentarios?","Realizar la cantidad de comidas y selección de alimentos que desee, siempre que procure cumplir con su cuota calórica",1
+8,"Según las GAPA es válido reemplazar las porciones recomendadas de fruta por el jugo de estas mismas.","No estoy seguro/a",1
+9,"Según la Gráfica de la Alimentación Diaria de las GAPA, ¿Qué proporción o cantidad diaria se recomienda consumir del grupo de legumbres, cereales, papa, pan y pastas?","4 porciones a la semana",1
+10.1,"¿Cree usted que esta bebida suele tener alto, bajo o nulo contenido de azúcar agregado?","Sin azúcar agregado",1
+10.2,"¿Cree usted que esta bebida suele tener alto, bajo o nulo contenido de azúcar agregado?","Sin azúcar agregado",1
+10.3,"¿Cree usted que este alimento suele tener alto, bajo o nulo contenido de azúcar agregado?","No estoy seguro/a",1
+10.4,"¿Cree usted que esta bebida suele tener alto, bajo o nulo contenido de azúcar agregado?","No estoy seguro/a",1
+10.5,"¿Cree usted que esta bebida suele tener alto, bajo o nulo contenido de azúcar agregado?","Sin azúcar agregado",1
+11.1,"¿Cree usted que este alimento es típicamente alto o bajo en sodio?","Bajo en sodio",1
+11.2,"¿Cree usted que este alimento es típicamente alto o bajo en sodio?","Bajo en sodio",1
+11.3,"¿Cree usted que este alimento es típicamente alto o bajo en sodio?","Bajo en sodio",1
+11.4,"¿Cree usted que este alimento es típicamente alto o bajo en sodio?","Bajo en sodio",1
+11.5,"¿Cree usted que este alimento es típicamente alto o bajo en sodio?","Bajo en sodio",1
+11.6,"¿Cree usted que este alimento es típicamente alto o bajo en sodio?","Bajo en sodio",1
+12.1,"¿Cree usted que este alimento es típicamente alto o bajo en fibra?","Bajo contenido de fibra",1
+12.2,"¿Cree usted que este alimento es típicamente alto o bajo en fibra?","Bajo contenido de fibra",1
+12.3,"¿Cree usted que este alimento es típicamente alto o bajo en fibra?","Bajo contenido de fibra",1
+12.4,"¿Cree usted que este alimento es típicamente alto o bajo en fibra?","Bajo contenido de fibra",1
+12.5,"¿Cree usted que este alimento es típicamente alto o bajo en fibra?","Bajo contenido de fibra",0
+12.6,"¿Cree usted que este alimento es típicamente alto o bajo en fibra?","Bajo contenido de fibra",0
+13.1,"¿Cree usted que este alimento es una buena fuente de proteína?","No es buena fuente de proteína",1
+13.2,"¿Cree usted que este alimento es una buena fuente de proteína?","No estoy seguro/a",1
+13.3,"¿Cree usted que este alimento es una buena fuente de proteína?","No estoy seguro/a",1
+13.4,"¿Cree usted que este alimento es una buena fuente de proteína?","No estoy seguro/a",1
+13.5,"¿Cree usted que este alimento es una buena fuente de proteína?","No es buena fuente de proteína",1
+13.6,"¿Cree usted que este alimento es una buena fuente de proteína?","No es buena fuente de proteína",1
+14.1,"¿Contiene almidón?","Contiene almidón",1
+14.2,"¿Contiene almidón?","Contiene almidón",2
+14.3,"¿Contiene almidón?","No estoy seguro/a",0
+14.4,"¿Contiene almidón?","No contiene almidón",3
+14.5,"¿Contiene almidón?","Contiene almidón",1
+15.1,"¿Cuál es el tipo de grasa predominante en este alimento?","Grasas mono-insaturadas",1
+15.2,"¿Cuál es el tipo de grasa predominante en este alimento?","Grasas saturadas",1
+15.3,"¿Cuál es el tipo de grasa predominante en este alimento?","No estoy seguro/a",1
+15.4,"¿Cuál es el tipo de grasa predominante en este alimento?","Grasas saturadas",1
+16,"¿Cuál de estos alimentos posee grasas trans?","No estoy seguro/a",1
+17,"La cantidad de calcio en un vaso de leche entera comparado con un vaso de leche descremada es:","Mucho mayor",1
+18,"¿Cuál de los siguientes nutrientes tiene más calorías por el mismo peso de alimento?","Fibra",1
+19,"En comparación con los alimentos mínimamente procesados, los alimentos ultraprocesados son:","Más bajos en sodio",1
+20,"¿Cuál de estas enfermedades está relacionada con una baja ingesta de fibra?","Caries dentales",2
+21,"¿Cuál de estas enfermedades está relacionada con cuánto azúcar consume la gente?","Caries dentales",1
+22,"¿Cuál de estas enfermedades está relacionada con cuánto sodio o sal consume la gente?","Diabetes 2",1
+23,"¿Qué recomiendan las GAPA para reducir el riesgo de cáncer?","Comer menos carne roja",1
+24,"¿Qué recomiendan las GAPA para prevenir enfermedades cardiovasculares?","Tomar suplementos",1
+25,"¿Qué recomiendan las GAPA para prevenir la Diabetes 2?","Comer menos alimentos ultra-procesados",4
+26,"¿Cuál de estos alimentos es más probable que eleve el colesterol sanguíneo?","Grasa animal",1
+27,"¿Cuál de estos alimentos tiende a elevar más rápidamente la glucemia después de comer?","Pan blanco",1
+28,"Para mantener un peso saludable la gente debería eliminar completamente las grasas de su dieta.","En desacuerdo",1
+29,"Para mantener un peso saludable la gente debería comer una dieta alta en proteínas.","En desacuerdo",1
+30,"Comer pan siempre causa aumento de peso.","En desacuerdo",1
+31,"La fibra puede disminuir las probabilidades de aumentar de peso.","En desacuerdo",2
+32.1,"¿Ayuda a mantener un peso saludable?","Ayuda",4
+32.2,"¿Ayuda a mantener un peso saludable?","No ayuda",1
+32.3,"¿Ayuda a mantener un peso saludable?","No ayuda",2
+32.4,"¿Ayuda a mantener un peso saludable?","No ayuda",2
+32.5,"¿Ayuda a mantener un peso saludable?","No ayuda",1
+32.6,"¿Ayuda a mantener un peso saludable?","No ayuda",1
+33,"Si alguien tiene un IMC de 20 kg/m² ¿Cuál sería su estado nutricional?","Desnutrición",3
+34,"Si alguien tiene un IMC de 30 kg/m² ¿Cuál sería su estado nutricional?","Peso normal",2
+35,"¿Cuál de las siguientes formas corporales incrementa el riesgo de enfermedad cardiovascular?","No estoy seguro/a",51
