@@ -27,7 +27,7 @@ jobs:
           cache: 'npm'
           cache-dependency-path: gnkq-app/package-lock.json
       - name: Install dependencies
-        run: npm ci
+        run: npm install
         working-directory: gnkq-app
       - name: Build
         run: npm run build
