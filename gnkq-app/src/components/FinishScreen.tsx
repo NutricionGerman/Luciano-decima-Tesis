@@ -118,7 +118,7 @@ const FinishScreen: React.FC<FinishScreenProps> = ({ userData, answers, tabSwitc
         await fetch(APPS_SCRIPT_URL, {
           method: 'POST',
           mode: 'no-cors', // Apps Script no devuelve cabeceras CORS en modo producción
-          headers: { 'Content-Type': 'application/json' },
+          headers: { 'Content-Type': 'text/plain;charset=utf-8' },
           body: JSON.stringify(payload),
         });
         // Con no-cors no podemos leer la respuesta, pero si no lanza error es exitoso

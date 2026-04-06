@@ -12,14 +12,26 @@ const App: React.FC = () => {
   const [step, setStep] = useState<AppStep>('checking');
   
   // State for Consent Step
-  const [userData, setUserData] = useState<UserData | null>(null);
+  const [userData, setUserData] = useState<UserData | null>(() => {
+    const saved = localStorage.getItem('gnkq_userData');
+    return saved ? JSON.parse(saved) : null;
+  });
   
   // State for Question Step
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [answers, setAnswers] = useState<AnswerData[]>([]);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(() => {
+    const saved = localStorage.getItem('gnkq_currentQuestion');
+    return saved ? parseInt(saved, 10) : 0;
+  });
+  const [answers, setAnswers] = useState<AnswerData[]>(() => {
+    const saved = localStorage.getItem('gnkq_answers');
+    return saved ? JSON.parse(saved) : [];
+  });
   
   // Session tracking
-  const [tabSwitches, setTabSwitches] = useState(0);
+  const [tabSwitches, setTabSwitches] = useState(() => {
+    const saved = localStorage.getItem('gnkq_tabSwitches');
+    return saved ? parseInt(saved, 10) : 0;
+  });
 
   // Initialize and check localStorage to prevent multiple retakes
   useEffect(() => {
@@ -27,9 +39,33 @@ const App: React.FC = () => {
     if (hasCompleted === 'true') {
       setStep('blocked');
     } else {
-      setStep('consent');
+      const savedUserData = localStorage.getItem('gnkq_userData');
+      if (savedUserData) {
+        setStep('question');
+      } else {
+        setStep('consent');
+      }
     }
   }, []);
+
+  // Track state changes to localStorage
+  useEffect(() => {
+    if (userData) {
+      localStorage.setItem('gnkq_userData', JSON.stringify(userData));
+    }
+  }, [userData]);
+
+  useEffect(() => {
+    localStorage.setItem('gnkq_currentQuestion', currentQuestionIndex.toString());
+  }, [currentQuestionIndex]);
+
+  useEffect(() => {
+    localStorage.setItem('gnkq_answers', JSON.stringify(answers));
+  }, [answers]);
+
+  useEffect(() => {
+    localStorage.setItem('gnkq_tabSwitches', tabSwitches.toString());
+  }, [tabSwitches]);
 
   // Track tab switches during the questionnaire
   useEffect(() => {

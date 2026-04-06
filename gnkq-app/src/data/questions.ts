@@ -99,5 +99,5 @@ export const questions: QuestionType[] = [
 
   { id: '33', section: 'Sección 3: Alimentación y enfermedades', text: 'Si alguien tiene un IMC de 20 kg/m² ¿Cuál sería su estado nutricional?', options: ['Desnutrición', 'Peso normal', 'Sobrepeso', 'Obesidad', 'No estoy seguro/a'], correctAnswer: 'Peso normal' },
   { id: '34', section: 'Sección 3: Alimentación y enfermedades', text: 'Si alguien tiene un IMC de 30 kg/m² ¿Cuál sería su estado nutricional?', options: ['Desnutrición', 'Peso normal', 'Sobrepeso', 'Obesidad', 'No estoy seguro/a'], correctAnswer: 'Obesidad' },
-  { id: '35', section: 'Sección 3: Alimentación y enfermedades', image: '/Tipos-de-obesidad.jpg', text: '¿Cuál de las siguientes formas corporales incrementa el riesgo de enfermedad cardiovascular?', options: ['Forma de manzana (obesidad androide)', 'Forma de pera (obesidad genoide)', 'Ninguna de las dos', 'No estoy seguro/a'], correctAnswer: 'Forma de manzana (obesidad androide)' }
+  { id: '35', section: 'Sección 3: Alimentación y enfermedades', image: './Tipos-de-obesidad.jpg', text: '¿Cuál de las siguientes formas corporales incrementa el riesgo de enfermedad cardiovascular?', options: ['Forma de manzana (obesidad androide)', 'Forma de pera (obesidad genoide)', 'Ninguna de las dos', 'No estoy seguro/a'], correctAnswer: 'Forma de manzana (obesidad androide)' }
 ];
