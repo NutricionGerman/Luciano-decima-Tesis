@@ -3,7 +3,8 @@ import React, { useState } from 'react';
 export interface UserData {
   fullName: string;
   age: string;
-  degree: string;
+  career: string;
+  grade: string;
   occupation: string;
   phone: string;
 }
@@ -16,7 +17,8 @@ const ConsentForm: React.FC<ConsentFormProps> = ({ onComplete }) => {
   const [formData, setFormData] = useState<UserData>({
     fullName: '',
     age: '',
-    degree: '',
+    career: '',
+    grade: '',
     occupation: '',
     phone: ''
   });
@@ -30,7 +32,8 @@ const ConsentForm: React.FC<ConsentFormProps> = ({ onComplete }) => {
   const isFormValid = 
     formData.fullName.trim() !== '' &&
     formData.age.trim() !== '' &&
-    formData.degree.trim() !== '' &&
+    formData.career.trim() !== '' &&
+    formData.grade.trim() !== '' &&
     formData.occupation.trim() !== '' &&
     agreed;
 
@@ -53,45 +56,62 @@ const ConsentForm: React.FC<ConsentFormProps> = ({ onComplete }) => {
           Antes de comenzar, por favor complete los siguientes datos para fines estadísticos de la investigación.
         </p>
 
-        <div className="form-group">
-          <label htmlFor="fullName">Nombre y Apellido</label>
-          <input
-            type="text"
-            id="fullName"
-            name="fullName"
-            value={formData.fullName}
-            onChange={handleChange}
-            placeholder="Ej. Juan Pérez"
-            required
-          />
+        <div className="form-row">
+          <div className="form-group flex-2">
+            <label htmlFor="fullName">Nombre y Apellido</label>
+            <input
+              type="text"
+              id="fullName"
+              name="fullName"
+              value={formData.fullName}
+              onChange={handleChange}
+              placeholder="Ej. Juan Pérez"
+              required
+            />
+          </div>
+
+          <div className="form-group">
+            <label htmlFor="age">Edad</label>
+            <input
+              type="number"
+              id="age"
+              name="age"
+              value={formData.age}
+              onChange={handleChange}
+              placeholder="Ej. 22"
+              min="16"
+              max="99"
+              required
+            />
+          </div>
         </div>
 
-        <div className="form-group">
-          <label htmlFor="age">Edad</label>
-          <input
-            type="number"
-            id="age"
-            name="age"
-            value={formData.age}
-            onChange={handleChange}
-            placeholder="Ej. 22"
-            min="16"
-            max="99"
-            required
-          />
-        </div>
+        <div className="form-row">
+          <div className="form-group">
+            <label htmlFor="career">Carrera</label>
+            <input
+              type="text"
+              id="career"
+              name="career"
+              value={formData.career}
+              onChange={handleChange}
+              placeholder="Ej. Lic. en Nutrición"
+              required
+            />
+          </div>
 
-        <div className="form-group">
-          <label htmlFor="degree">Grado o Carrera</label>
-          <input
-            type="text"
-            id="degree"
-            name="degree"
-            value={formData.degree}
-            onChange={handleChange}
-            placeholder="Ej. Licenciatura en Nutrición / 3er Año"
-            required
-          />
+          <div className="form-group">
+            <label htmlFor="grade">Grado o condición</label>
+            <input
+              type="text"
+              id="grade"
+              name="grade"
+              value={formData.grade}
+              onChange={handleChange}
+              placeholder="Ej. 3er Año / Tesista"
+              required
+            />
+          </div>
         </div>
 
         <div className="form-group">
@@ -124,7 +144,7 @@ const ConsentForm: React.FC<ConsentFormProps> = ({ onComplete }) => {
 
         <div className="consent-box consent-intro">
           <h3>Consentimiento Informado</h3>
-          <p style={{ marginBottom: '0.75rem', fontSize: '0.95rem' }}>
+          <p className="consent-text-main">
             El presente estudio consta de dos fases: esta primera parte que consiste en un cuestionario para conocer su nivel de conocimiento nutricional (adaptación del General Nutrition Knowledge Questionnaire bajo lineamientos de las GAPA), y una eventual segunda fase presencial para la valoración de su estado nutricional.
           </p>
           <p>
@@ -138,12 +158,11 @@ const ConsentForm: React.FC<ConsentFormProps> = ({ onComplete }) => {
           </p>
         </div>
 
-        <label className="checkbox-wrap" style={{ alignItems: 'flex-start' }}>
+        <label className="checkbox-wrap consent-checkbox">
           <input
             type="checkbox"
             checked={agreed}
             onChange={(e) => setAgreed(e.target.checked)}
-            style={{ marginTop: '0.25rem' }}
           />
           <span>He leído, comprendo y acepto los términos del consentimiento informado para participar de ambas fases de este estudio.</span>
         </label>

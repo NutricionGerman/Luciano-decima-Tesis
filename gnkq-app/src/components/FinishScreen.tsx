@@ -25,11 +25,12 @@ const generateCSV = (userData: UserData, answers: AnswerData[], tabSwitches: num
   const totalTime = answers.reduce((acc, curr) => acc + curr.timeSpentSeconds, 0);
   
   rows.push(['=== DATOS DEL PARTICIPANTE ===', '', '', '']);
-  rows.push(['Nombre Completo', 'Edad', 'Grado o Carrera', 'Cargo que ocupa']);
+  rows.push(['Nombre Completo', 'Edad', 'Carrera', 'Grado o condición', 'Cargo que ocupa']);
   rows.push([
     escapeCSV(userData.fullName),
     escapeCSV(userData.age),
-    escapeCSV(userData.degree),
+    escapeCSV(userData.career),
+    escapeCSV(userData.grade),
     escapeCSV(userData.occupation)
   ]);
   
@@ -99,7 +100,8 @@ const FinishScreen: React.FC<FinishScreenProps> = ({ userData, answers, tabSwitc
         const payload = {
           fullName: userData.fullName,
           age: userData.age,
-          degree: userData.degree,
+          career: userData.career,
+          grade: userData.grade,
           occupation: userData.occupation,
           phone: userData.phone,
           score,
@@ -190,16 +192,6 @@ const FinishScreen: React.FC<FinishScreenProps> = ({ userData, answers, tabSwitc
         <div className="stat-box flex-1">
           <div className="label">Preguntas</div>
           <div className="value">{answers.length}</div>
-        </div>
-      </div>
-
-      <div className="next-step-box">
-        <h3>Siguiente Paso Importante</h3>
-        <p>
-          Se ha descargado un archivo automático en tu dispositivo con los resultados. Por favor, <strong>envía ese archivo como documento adjunto</strong> por correo electrónico a:
-        </p>
-        <div className="email-display">
-          lucianodecima1@gmail.com
         </div>
       </div>
 

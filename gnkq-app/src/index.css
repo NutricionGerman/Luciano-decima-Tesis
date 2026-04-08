@@ -116,6 +116,26 @@ body {
   box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.2);
 }
 
+.form-row {
+  display: flex;
+  gap: 1rem;
+}
+
+.form-row .form-group {
+  flex: 1;
+}
+
+.form-row .form-group.flex-2 {
+  flex: 2;
+}
+
+@media (max-width: 480px) {
+  .form-row {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+}
+
 /* Consent Box */
 .consent-box {
   background: #F9FAFB;
@@ -141,6 +161,19 @@ body {
   width: 1.2rem;
   height: 1.2rem;
   accent-color: var(--primary);
+}
+
+.consent-text-main {
+  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+}
+
+.consent-checkbox {
+  align-items: flex-start;
+}
+
+.consent-checkbox input {
+  margin-top: 0.25rem;
 }
 
 /* Buttons */
