@@ -180,10 +180,9 @@ const FinishScreen: React.FC<FinishScreenProps> = ({ userData, answers, tabSwitc
             <button 
               className="btn btn-primary" 
               onClick={sendToSheets} 
-              disabled={uploadStatus === 'sending'}
               style={{ padding: '8px 16px', fontSize: '0.9rem' }}
             >
-              {uploadStatus === 'sending' ? '🔄 Reintentando...' : '🔄 Reintentar envío automático'}
+              🔄 Reintentar envío automático
             </button>
 
             {retryCount >= 3 && (
