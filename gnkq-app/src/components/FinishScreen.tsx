@@ -63,6 +63,7 @@ const APPS_SCRIPT_URL = import.meta.env.VITE_APPS_SCRIPT_URL as string;
 const FinishScreen: React.FC<FinishScreenProps> = ({ userData, answers, tabSwitches }) => {
   const totalTimeSeconds = answers.reduce((acc, curr) => acc + curr.timeSpentSeconds, 0);
   const [uploadStatus, setUploadStatus] = useState<'idle' | 'sending' | 'success' | 'error'>('idle');
+  const [retryCount, setRetryCount] = useState(0);
 
   // Calculate scores
   const score = answers.reduce((acc, ans) => {
@@ -79,6 +80,44 @@ const FinishScreen: React.FC<FinishScreenProps> = ({ userData, answers, tabSwitc
     return `${mins.toString().padStart(2, '0')}m ${secs.toString().padStart(2, '0')}s`;
   };
 
+  const sendToSheets = async () => {
+    if (!APPS_SCRIPT_URL || APPS_SCRIPT_URL.includes('TU_URL_AQUI')) return;
+    setUploadStatus('sending');
+    try {
+      const payload = {
+        fullName: userData.fullName,
+        age: userData.age,
+        career: userData.career,
+        grade: userData.grade,
+        occupation: userData.occupation,
+        phone: userData.phone,
+        score,
+        tabSwitches,
+        finalScore,
+        totalTimeSeconds,
+        answers: answers.map(ans => {
+          const qObj = questions.find(q => q.id === ans.questionId);
+          return {
+            questionId: ans.questionId,
+            answer: ans.answer,
+            isCorrect: qObj ? qObj.correctAnswer === ans.answer : false,
+          };
+        }),
+      };
+      await fetch(APPS_SCRIPT_URL, {
+        method: 'POST',
+        mode: 'no-cors', // Apps Script no devuelve cabeceras CORS en modo producción
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+        body: JSON.stringify(payload),
+      });
+      // Con no-cors no podemos leer la respuesta, pero si no lanza error es exitoso
+      setUploadStatus('success');
+    } catch {
+      setUploadStatus('error');
+      setRetryCount(prev => prev + 1);
+    }
+  };
+
   useEffect(() => {
     const handleDownload = () => {
       const csvContent = generateCSV(userData, answers, tabSwitches, score, finalScore);
@@ -93,50 +132,14 @@ const FinishScreen: React.FC<FinishScreenProps> = ({ userData, answers, tabSwitc
       URL.revokeObjectURL(url);
     };
 
-    const sendToSheets = async () => {
-      if (!APPS_SCRIPT_URL || APPS_SCRIPT_URL.includes('TU_URL_AQUI')) return;
-      setUploadStatus('sending');
-      try {
-        const payload = {
-          fullName: userData.fullName,
-          age: userData.age,
-          career: userData.career,
-          grade: userData.grade,
-          occupation: userData.occupation,
-          phone: userData.phone,
-          score,
-          tabSwitches,
-          finalScore,
-          totalTimeSeconds,
-          answers: answers.map(ans => {
-            const qObj = questions.find(q => q.id === ans.questionId);
-            return {
-              questionId: ans.questionId,
-              answer: ans.answer,
-              isCorrect: qObj ? qObj.correctAnswer === ans.answer : false,
-            };
-          }),
-        };
-        await fetch(APPS_SCRIPT_URL, {
-          method: 'POST',
-          mode: 'no-cors', // Apps Script no devuelve cabeceras CORS en modo producción
-          headers: { 'Content-Type': 'text/plain;charset=utf-8' },
-          body: JSON.stringify(payload),
-        });
-        // Con no-cors no podemos leer la respuesta, pero si no lanza error es exitoso
-        setUploadStatus('success');
-      } catch {
-        setUploadStatus('error');
-      }
-    };
-
     const timer = setTimeout(() => {
       handleDownload();
       sendToSheets();
     }, 1000);
 
     return () => clearTimeout(timer);
-  }, [userData, answers, tabSwitches, score, finalScore]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const handleManualDownload = () => {
     const csvContent = generateCSV(userData, answers, tabSwitches, score, finalScore);
@@ -150,6 +153,8 @@ const FinishScreen: React.FC<FinishScreenProps> = ({ userData, answers, tabSwitc
     document.body.removeChild(link);
     URL.revokeObjectURL(url);
   };
+
+  const whatsappMessage = `Hola Luciano, completé el cuestionario GNKQ pero tuve un problema de conexión para el envío automático. Adjunto mi archivo CSV de resultados.`;
 
   return (
     <div className="content-area">
@@ -167,7 +172,53 @@ const FinishScreen: React.FC<FinishScreenProps> = ({ userData, answers, tabSwitc
           <p className="upload-status upload-success">☁️ Datos guardados correctamente en Google Sheets.</p>
         )}
         {uploadStatus === 'error' && (
-          <p className="upload-status upload-error">⚠️ No se pudieron enviar los datos automáticamente. Enviá el CSV por correo.</p>
+          <div className="upload-error-container" style={{ textAlign: 'center', marginBottom: '20px' }}>
+            <p className="upload-status upload-error" style={{ marginBottom: '10px' }}>
+              ⚠️ No se pudieron enviar los datos automáticamente.
+            </p>
+            
+            <button 
+              className="btn btn-primary" 
+              onClick={sendToSheets} 
+              disabled={uploadStatus === 'sending'}
+              style={{ padding: '8px 16px', fontSize: '0.9rem' }}
+            >
+              {uploadStatus === 'sending' ? '🔄 Reintentando...' : '🔄 Reintentar envío automático'}
+            </button>
+
+            {retryCount >= 3 && (
+              <div className="whatsapp-help-box" style={{
+                marginTop: '15px',
+                padding: '15px',
+                backgroundColor: 'rgba(37, 211, 102, 0.1)',
+                border: '1px solid #25D366',
+                borderRadius: '8px',
+                textAlign: 'left'
+              }}>
+                <p style={{ margin: '0 0 10px 0', fontSize: '0.9rem' }}>
+                  El envío sigue fallando. Por favor, enviá el informe (CSV) descargado a <strong>Luciano Ariel Decima</strong> por WhatsApp:
+                </p>
+                <a
+                  href={`https://wa.me/5493815611794?text=${encodeURIComponent(whatsappMessage)}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn"
+                  style={{
+                    backgroundColor: '#25D366',
+                    color: 'white',
+                    width: '100%',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    gap: '8px',
+                    textDecoration: 'none'
+                  }}
+                >
+                  📱 Enviar por WhatsApp
+                </a>
+              </div>
+            )}
+          </div>
         )}
       </div>
 
